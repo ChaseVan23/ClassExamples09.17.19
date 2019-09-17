@@ -13,6 +13,8 @@ import java.util.Scanner;
  *
  * @author 0774775
  */
+
+//print out 5 lines or less of a specific file
 public class Examples {
     public static void main(String[] args) throws FileNotFoundException {
          System.out.println("Please enter file name");
